@@ -11,3 +11,6 @@ This is a comprehensive desktop application developed using C# Windows Forms aim
 - **Hadith Categorization**: Explore Hadiths categorized based on the life events of the Prophet Muhammad (peace be upon him) and different topics.
 - **Personalized Tutoring**: Schedule and receive personalized tutoring sessions with qualified instructors.
 
+## Screenshots
+### Main Interface
+![Home](Images/ss2.png)
