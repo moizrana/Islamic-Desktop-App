@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|c:\\users\\hp\\source\\repos\\islamicdesktopapp\\kjhhb\\hadith1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\hadith1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\hadith1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\hadith1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\quran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tajweed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tajweed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tajweed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tajweed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tutorch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tutorch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tutorch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tutorch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\lecture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\maintutoringscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\maintutoringscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\maintutoringscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\maintutoringscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tutorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tutorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tutorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tutorprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tutorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tutorsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\translation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\tajweed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\tajweed.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E985A4D-52AB-4AC7-B895-E0383406843C}|kjhhb\\kjhhb.csproj|solutionrelative:kjhhb\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainForm.cs",
+              "RelativeDocumentMoniker": "kjhhb\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainForm.cs",
+              "RelativeToolTip": "kjhhb\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:50:03.318Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hadith1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Hadith1.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Hadith1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Hadith1.cs [Design]",
+              "RelativeToolTip": "kjhhb\\Hadith1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:00:18.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hadith1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Hadith1.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Hadith1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Hadith1.cs",
+              "RelativeToolTip": "kjhhb\\Hadith1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T09:40:04.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tajweed.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Tajweed.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Tajweed.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Tajweed.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Tajweed.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:02:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tajweed.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Tajweed.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Tajweed.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Tajweed.cs",
+              "RelativeToolTip": "kjhhb\\Tajweed.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAqwFwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T16:36:00.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Quran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Quran.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Quran.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Quran.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Quran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T16:45:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quran.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Quran.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Quran.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Quran.cs",
+              "RelativeToolTip": "kjhhb\\Quran.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:10:04.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Signup.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Signup.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Signup.cs",
+              "RelativeToolTip": "kjhhb\\Signup.cs",
+              "ViewState": "AQIAALsAAAAAAAAAAAAlwGUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:45:27.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Signup.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Signup.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Signup.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:45:23.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Form1.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Form1.cs",
+              "RelativeToolTip": "kjhhb\\Form1.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAArwHQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:29:33.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Form1.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Form1.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:29:23.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Home.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Home.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Home.cs",
+              "RelativeToolTip": "kjhhb\\Home.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA1wDMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:34:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Lecture.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Lecture.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Lecture.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Lecture.cs",
+              "RelativeToolTip": "kjhhb\\Lecture.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T10:49:40.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TutorCh.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorCh.cs",
+              "RelativeDocumentMoniker": "kjhhb\\TutorCh.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorCh.cs",
+              "RelativeToolTip": "kjhhb\\TutorCh.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADgv5gAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:16:02.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TutorCh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorCh.cs",
+              "RelativeDocumentMoniker": "kjhhb\\TutorCh.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\TutorCh.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\TutorCh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:10:36.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainForm.cs",
+              "RelativeDocumentMoniker": "kjhhb\\MainForm.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T14:28:20.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Home.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Home.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Home.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:57:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Lecture.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Lecture.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Lecture.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Lecture.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Lecture.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:41:24.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainTutoringScreen.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainTutoringScreen.cs",
+              "RelativeDocumentMoniker": "kjhhb\\MainTutoringScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainTutoringScreen.cs",
+              "RelativeToolTip": "kjhhb\\MainTutoringScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:45:08.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainTutoringScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainTutoringScreen.cs",
+              "RelativeDocumentMoniker": "kjhhb\\MainTutoringScreen.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\MainTutoringScreen.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\MainTutoringScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:46:59.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TutorProfile.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorProfile.cs",
+              "RelativeDocumentMoniker": "kjhhb\\TutorProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorProfile.cs",
+              "RelativeToolTip": "kjhhb\\TutorProfile.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAwwEUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:29:51.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TutorProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorProfile.cs",
+              "RelativeDocumentMoniker": "kjhhb\\TutorProfile.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\TutorProfile.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\TutorProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:46:15.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TutorSignup.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorSignup.cs",
+              "RelativeDocumentMoniker": "kjhhb\\TutorSignup.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\TutorSignup.cs",
+              "RelativeToolTip": "kjhhb\\TutorSignup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T14:46:16.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Program.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Program.cs",
+              "RelativeToolTip": "kjhhb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:06:54.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Translation.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Translation.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Translation.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Translation.cs",
+              "RelativeToolTip": "kjhhb\\Translation.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAgwI8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T14:51:07.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Translation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Translation.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Translation.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\kjhhb\\kjhhb\\Translation.cs [Design]",
+              "RelativeToolTip": "..\\kjhhb\\kjhhb\\Translation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T13:26:23.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Tajweed.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Tajweed.Designer.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Tajweed.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Tajweed.Designer.cs",
+              "RelativeToolTip": "kjhhb\\Tajweed.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:44:40.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "kjhhb\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\Home.Designer.cs",
+              "RelativeToolTip": "kjhhb\\Home.Designer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAASwF8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T18:01:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "kjhhb\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\IslamicDesktopApp\\kjhhb\\MainForm.Designer.cs",
+              "RelativeToolTip": "kjhhb\\MainForm.Designer.cs",
+              "ViewState": "AQIAAAgBAAAAAAAAAAAiwBMBAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T17:34:45.627Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
